@@ -189,7 +189,7 @@
 
       refreshText: {
         type: String,
-        default: '下拉刷新'
+        default: '刷新'
       },
 
       noDataText: {
